@@ -1,1 +1,1 @@
-# full-stack-album
+# full-stack-albums
