@@ -1,0 +1,24 @@
+/*
+* ------------------------------------------------------------------------
+* Navbar
+* ------------------------------------------------------------------------
+*/
+
+.nav {
+    background-color: #fff;
+    padding: 10px 0;
+    box-shadow: 0 0 1rem rgba(104, 103, 103, 0.2);
+
+    &__logo {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: #000;
+        font-size: 18px;
+        text-transform: uppercase;
+
+        img {
+            max-width: 40px;
+        }
+    }
+}
