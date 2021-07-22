@@ -20,3 +20,11 @@ Install all the packages
 
 Run the server
 *  ``` npm start ```
+
+
+
+## Working Routes
+
+|   Endpoint                      | Functionality                                           |
+|---------------------------------|:-------------------------------------------------------:|
+|POST /api/albums/:id             | Retrieve specific album photos                          |
